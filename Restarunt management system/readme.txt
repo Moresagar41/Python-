@@ -36,8 +36,8 @@ copy the api and paste in  api variable in a  send() function code..
 
 =====================================================
 
-Note ** 
 
-If you face any issuse realted to the project like getting error in anywhere or you need to know something about this project , you can feel free to DM me on instagram   @__pythonworld__
+
+
 
 -------------------------------------------------------------------------------------------------------------
