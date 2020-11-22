@@ -1,6 +1,7 @@
 ======================================================= 
-                   Project Created by Aashish Admin of @__pythonworld__
+              
 ======================================================= 
+
 
 
 ==========        Small  Description about the project      ==============
